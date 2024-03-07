@@ -1,23 +1,17 @@
 ---
 title: La Palma Earthquakes
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Sebastian Sukstorf
+    orcid: 0000-0002-1538-5658
     corresponding: true
-    email: steve@curvenote.com
+    email: info@sebastian.sukstorf.de
     roles:
-      - Investigation
-      - Project administration
-      - Software
-      - Visualization
+      - People Development
+      - Human Resources
+      - People Analytics
+      - Leadership
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+      - Sebastian Sukstorf - Leadership Design
 keywords:
   - La Palma
   - Earthquakes
